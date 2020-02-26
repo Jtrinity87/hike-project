@@ -1,0 +1,20 @@
+body {
+    background-color: red;
+}
+.logo {
+    height: 3.5%;
+    width: 3.5%;
+}
+.container-two {
+    display: flex;
+    flex-direction: row;
+
+}
+.container-two .nav-list {
+    display: flex;
+    margin: 0px 20px;
+}
+/* .container-two .nav-list ul li { 
+    margin:  0px 10px;
+} */
+
