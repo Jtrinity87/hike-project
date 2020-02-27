@@ -17,4 +17,51 @@ body {
 /* .container-two .nav-list ul li { 
     margin:  0px 10px;
 } */
+.main-container {
+    /* padding: 15px 20px 100px 50px; */
+    margin: auto;
+    width: 1000px;
+    height: auto;
+    background-color: white;
+    display: flex;
+    /* border: 10px; */
+    justify-content: center;
+    text-align: center;
+    
+    }
+    
+    .box-one {
+    display: flex;
 
+    /* background-color: chocolate; */
+    height: 200px;
+    width: 250px;
+    border: 3.5px white solid
+    
+    } 
+    
+    .box-two {
+        display: flex;
+        /* background-color: blue; */
+        height: 200px;
+        width: 250px;
+        border: 3.5px white solid
+    }
+    
+    .box-three {
+        display: flex;
+        /* background-color: crimson; */
+        height: 200px;
+        width: 250px;
+        border: 3.5px white solid
+    }
+    
+    .box-four {
+        display: flex;
+        /* background-color: darkkhaki; */
+        height: 200px;
+        width: 250px;
+        border: 3.5px white solid
+    }
+    
+    
